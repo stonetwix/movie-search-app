@@ -5,8 +5,8 @@ Search for movies, see the details and rating, add them to your watchlist.
 
 
 Created by:
-[Moa](https://github.com/stonetwix/) 
-[Amanda](https://github.com/amandasamuelsson) 
+[Moa](https://github.com/stonetwix/)\
+[Amanda](https://github.com/amandasamuelsson)\
 [Malin](https://github.com/msmalinosterberg)
 
 
