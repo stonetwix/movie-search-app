@@ -4,7 +4,7 @@ Search for movies, see the details and rating, add them to your watchlist.
 [See the app here](https://search-for-movies.netlify.app/)
 
 
-Created by:
+Created by:\
 [Moa](https://github.com/stonetwix/)\
 [Amanda](https://github.com/amandasamuelsson)\
 [Malin](https://github.com/msmalinosterberg)
